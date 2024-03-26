@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 48px 0;
+  font-family: "Lucida Sans";
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+  background-color: linear-gradient(50deg, #dfe7f2, #dfe7f2);
+  min-height: 100vh;
+}
+
